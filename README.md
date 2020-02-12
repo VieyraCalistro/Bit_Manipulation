@@ -2,4 +2,4 @@
 
 ![Bit_Manipulation](Screenshots/Bit_Manipulation.jpg)
 
-Here I demonstrate manipulating bits using bitwise operators, you can control them yourself using the easy to follow menu selection I also integrated.
+Here I demonstrate manipulating bits using bitwise operators. You can control the bits with a key press while referencing the easy to follow menu I also integrated.
